@@ -1,2 +1,8 @@
-# AI-trip-planner
-The AI Trip Planner is a modern web-based application built with React that allows users to plan trips effortlessly with the help of AI. This application provides a seamless experience, from choosing destinations to receiving detailed itineraries, hotel recommendations, and more.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
